@@ -4,5 +4,7 @@ info:
 name: '章鱼哥'
 motto: '嗷呜~ 真是人生无常、大肠包小肠！加油！'
 
+hi: '你好!'
+
 ## 前缀需要加{cipher}
 food: '{cipher}3349fc71abcc1fb405a3a8fe6b682857c439eca10adeeddb74b4e00a5fcc3454'
