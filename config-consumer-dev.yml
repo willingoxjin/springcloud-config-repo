@@ -4,6 +4,7 @@ info:
 name: 'Squidward Tentacles'
 motto: '真是人生无常、大肠包小肠'
 
+hi: 'hello!'
 
 ## 前缀需要加{cipher}
 food: '{cipher}56d7aff8ce1547319910189870494af3b61b7332249c21b2ffb8fb38160b7b7a'
